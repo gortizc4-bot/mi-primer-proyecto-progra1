@@ -8,3 +8,7 @@ nombre: Giselle Calvillo
 
 Aprendí a usar ramas y commits.
 
+Aprendi a usar git merge y push.
+
+
+
