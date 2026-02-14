@@ -1,0 +1,8 @@
+1. Aprendí que Git permite controlar versiones y cambios, y que GitHub sirve para almacenar y compartir proyectos en la nube, facilitando el trabajo individual y en equipo.
+
+2. Mi experiencia trabajando de forma individua.
+Al inicio tuve algunas dificultades con los comandos y errores al usar Git, pero con la práctica aprendí a crear archivos, hacer commits, subir cambios a GitHub y usar ramas.
+
+3. Para mí, usar Git es útil porque me ayuda a llevar un mejor control de lo que hago, guardar mis avances y no perder mi trabajo.
+
+
